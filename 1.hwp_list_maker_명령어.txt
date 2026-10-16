@@ -1,0 +1,1 @@
+python 1.hwp_list_maker.py "C:\Users\kdiuser2\Desktop\세은\1.청구\1.청구현황_로컬\2026년 8월 청구리스트"

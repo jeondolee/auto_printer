@@ -1,0 +1,4 @@
+cd C:\Users\kdiuser2\Desktop\세은\1.청구\2.청구출력_tool
+
+
+python 2.hwp_print.py "C:\Users\kdiuser2\Desktop\세은\1.청구\2.청구출력_tool\print_list\print_list_2026년 10월 청구리스트.csv"

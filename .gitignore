@@ -1,0 +1,19 @@
+# 인쇄 목록·결과 로그: 기관명과 PC 경로가 들어 있으므로 업로드하지 않음
+# (폴더 자체는 .gitkeep으로 유지)
+print_list/*
+!print_list/.gitkeep
+
+# 한컴 보안모듈: 각 PC에서 0.setup_security_module.py로 내려받아 설치
+*.dll
+*.zip
+_보안모듈_압축해제/
+
+# 백업·임시·작업용 파일
+*복사본*
+새 폴더/
+/python
+~$*
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
